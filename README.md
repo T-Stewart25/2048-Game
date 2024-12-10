@@ -31,9 +31,9 @@ This repository serves as the foundation for the AI-enhanced version of the game
 
 ## **Demo**
 
-![Gameplay Demo](https://your-image-link.com/demo.gif)
+![Game Demo](1-g.png)
 
-*Caption: Demonstration of smooth tile movements and score tracking in the 2048 game.*
+*Caption: Demonstraiton of game visual mid game*
 
 ---
 
